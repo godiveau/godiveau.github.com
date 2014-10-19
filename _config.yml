@@ -11,9 +11,9 @@ highlighter: pygments
 title : Le Blog Jekyll/GitHub de Gilles Godiveau
 tagline: Site Tagline
 author :
-  name : Name Lastname
+  name : Gilles Godiveau
   email : blah@email.test
-  github : username
+  github : godiveau
   twitter : username
   feedburner : feedname
 
